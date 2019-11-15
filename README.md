@@ -1,2 +1,3 @@
 # hello-world
-My first github repository to store ideas
+
+Hi here's Anna, i like dogs.
